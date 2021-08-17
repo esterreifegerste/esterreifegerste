@@ -17,7 +17,7 @@
 
   ##
   <div style="display: inline_block"><br>
-  <h3>Ferramentas:
+  <h3>Tecnologias:
   <img align="center" alt="Ester-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ester-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ester-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
