@@ -34,6 +34,6 @@
   <a href="https://www.linkedin.com/in/ester-reifegerste/" target="_blank"><img height="20" width="90" src="https://api.iconify.design/logos/linkedin.svg" style="margin-right: 15px;"/></a> 
  <a href = "mailto:esterdms@gmail.com"><img height="20" width="30" src="https://api.iconify.design/logos/google-gmail.svg" style="margin-right: 15px;"/></a>
  <a href="https://www.youtube.com/channel/UCWDAAXzH2dyeuiC1GQA-s6w" target="_blank"><img height="20" width="40" src="https://api.iconify.design/logos/youtube-icon.svg" style="margin-right: 15px;"/></a>
- <a href="https://www.instagram.com/ester.reifegerste/"><img height="30" width="30" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1629210888~hmac=be774e2d18d13791e725efc0705346de" style="margin-right: 15px;"/></a>
+ <a href="https://www.instagram.com/ester.reifegerste/"><img height="25" width="30" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1629210888~hmac=be774e2d18d13791e725efc0705346de" style="margin-right: 15px;"/></a>
 
 </div>
