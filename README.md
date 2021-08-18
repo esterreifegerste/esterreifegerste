@@ -10,9 +10,10 @@
 ### Dados 📂
  <div>
   <a href="https://github.com/esterreifegerste">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=esterreifegerste&show_icons=true&theme=nord_bright&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esterreifegerste&layout=compact&langs_count=7&theme=nord_bright"/>
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=esterreifegerste&hide_border=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=esterreifegerste&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esterreifegerste&layout=compact&langs_count=7&theme=algolia&hide_border=true"/>
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=esterreifegerste&theme=algolia&hide_border=true"/> 
+ 
 </div>
 
   ##
@@ -34,6 +35,5 @@
   <a href="https://www.linkedin.com/in/ester-reifegerste/" target="_blank"><img height="20" width="90" src="https://api.iconify.design/logos/linkedin.svg" style="margin-right: 15px;"/></a> 
  <a href = "mailto:esterdms@gmail.com"><img height="20" width="30" src="https://api.iconify.design/logos/google-gmail.svg" style="margin-right: 15px;"/></a>
  <a href="https://www.youtube.com/channel/UCWDAAXzH2dyeuiC1GQA-s6w" target="_blank"><img height="20" width="40" src="https://api.iconify.design/logos/youtube-icon.svg" style="margin-right: 15px;"/></a>
- <a href="https://www.instagram.com/ester.reifegerste/"><img height="25" width="30" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1629210888~hmac=be774e2d18d13791e725efc0705346de" style="margin-right: 15px;"/></a>
-
-</div>
+ <a href="https://www.instagram.com/ester.reifegerste/"><img height="25" width="25" src="https://facebookbrand.com/wp-content/uploads/2021/03/Instagram_AppIcon_Aug2017.png?w=300&amp;h=300" style="margin-right: 15px;"/></a>
+  </div>
